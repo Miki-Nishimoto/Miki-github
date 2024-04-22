@@ -1,0 +1,14 @@
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.head{
+   background-color: pink;
+color: white;
+}
+
+.row{
+    background-color: beige;
+}
+

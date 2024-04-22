@@ -1,0 +1,50 @@
+#none{
+    font-size: 20px;
+    list-style-type: none;
+}
+
+#circle{
+    font-size: 20px;
+    list-style-type: circle;
+}
+
+#square{
+    font-size: medium;
+    list-style-type: square;
+}
+
+#disc{
+    font-size: 20px;
+    list-style-type: disc;
+}
+
+
+.lower-alpha{
+    font-size: 27px;
+    list-style-type: lower-alpha;
+}
+
+.upper-alpha{
+    font-size: 27px;
+    list-style-type: upper-alpha;
+}
+
+.decimal{
+    font-size: 27px;
+    list-style-type: decimal;
+}
+
+.inside{
+    font-size: 27px;
+    list-style-position: inside;
+}
+
+.outside{
+    font-size: 27px;
+    list-style-position: outside;
+}
+
+.sh{
+    font-size: large;
+    list-style: square inside;
+}

@@ -1,0 +1,94 @@
+/* note
+p{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+*/
+
+.font-style{
+    font-style: oblique;
+}
+
+.uppercase{
+    color: blueviolet;
+    font-family: Arial, sans-serif;
+    text-transform: uppercase ;
+}
+
+.lowercase{
+    color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: lowercase ;
+}
+
+.capitalize{
+    color: pink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize ;
+}
+
+
+.overline{
+    color: yellow;
+    background-color: blueviolet;
+    text-decoration:overline;
+}
+
+.line-through{
+    color: red;
+    text-decoration: line-through;
+}
+
+.underline{
+    color: green;
+    text-decoration:underline dotted;
+}
+
+
+.left{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+.right{
+    text-align: right;
+    font-family:Arial, Helvetica, sans-serif;
+    color: tomato;
+}
+
+.center{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.tittle{
+    color:black;
+    text-shadow: 2px 2px 3px red;
+    letter-spacing: 10px;
+}
+
+.tit{
+    color:black;
+    text-shadow: 2px 2px 3px blue;
+    word-spacing: 30px;
+}
+
+.px{
+    text-indent: 50px;
+}
+
+.percentage{
+    text-indent: 5%;
+}
+
+.em{
+    text-indent: 5em;
+}
+
+
+
+

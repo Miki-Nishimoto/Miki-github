@@ -1,0 +1,13 @@
+.empty,tr,th,td{
+    border: 1px solid black;
+    empty-cells: hide;
+}
+
+.collapse{
+    border-collapse: collapse;
+}
+
+.separated{
+    border-collapse: separate;
+    border-spacing: 15px;
+}
